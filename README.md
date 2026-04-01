@@ -4,8 +4,7 @@ Hi, I’m PKneo
 I am an undergraduate student in Telecommunications, passionate about learning, research, and sharing knowledge. My primary focus is Machine Learning, but my expertise also spans signal analysis, game theory, and other areas at the intersection of technology and research.
 
 
-Areas of Expertise
-
+Areas of Expertise:
 •	Machine Learning & Data Analysis
 •	Signal Processing & Network Analysis 
 •	Game Theory & Research Applications
