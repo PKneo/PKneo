@@ -6,9 +6,8 @@ I am an undergraduate student in **Telecommunications**, passionate about **lear
 ## Areas of Expertise
 - **Machine Learning & Data Analysis** – Developing models and exploring data-driven solutions  
 - **Signal Processing & Network Analysis** – Understanding and analyzing communication systems  
-- **Game Theory & Research Applications** – Applying theoretical frameworks to technical problems  
 - **Web & Front-End Development** – Building interactive projects and user-focused interfaces  
-- **Programming & Tools:** Python (primary), Java, Linux/Bash for system-level tasks  
+- **Programming & Tools:** Python (primary), Java, C++, Linux/Bash for system-level tasks  
 
 
 ## Professional Interests
