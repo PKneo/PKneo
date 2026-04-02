@@ -1,4 +1,4 @@
-# Hi, I’m PKneo 👋
+# Hi, I’m PKneo :🥳
 
 I am an undergraduate student in **Telecommunications**. If someone asks what I’m into, I’d probably mention **Machine Learning**. However, I love diving into new, unexplored **problems** and **learning** from them.
 
